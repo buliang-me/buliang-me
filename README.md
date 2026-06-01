@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**buliang-me/buliang-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一个专注于网站导航与资源整合的开发者。
 
-Here are some ideas to get you started:
+* 🔭 目前正在维护多个导航与资源发现项目
+* 🌱 持续学习 SEO、流量增长与网站运营
+* 👯 欢迎交流网站导航、目录系统与内容聚合
+* 🤔 正在探索更高效的信息发现方式
+* 💬 可以和我聊导航站建设、SEO优化、资源整理
+* 📫 Contact: [buliangdizhi@gmail.com](mailto:buliangdizhi@gmail.com)
+* ⚡ 喜欢收集和整理优质互联网资源
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+专注于：
+
+* 网站导航
+* 资源目录
+* SEO优化
+* 内容聚合
+* 用户体验设计
+
+希望通过更清晰的分类和检索方式，帮助用户快速发现有价值的内容。
+
